@@ -1,2 +1,1 @@
-# Crud_Sqlite
-Merchant Stock Manager
+# Crud_Sqlite Merchant Stock Manager
